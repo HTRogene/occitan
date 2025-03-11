@@ -25,86 +25,60 @@ characters:
   members:
   - e
   - a
-  - o
   - s
-  - l
   - n
   - r
   - i
-  - d
-  - u
+  - o
   - t
-  - ̃
-  - c
+  - u
+  - l
+  - d
   - m
-  - q
-  - p
-  - b
-  - g
-  - y
-  - ⁊
   - .
-  - f
-  - ̧
-  - /
+  - p
+  - c
+  - g
   - z
+  - y
+  - f
+  - q
+  - b
   - h
-  - R
   - E
-  - ͣ
-  - x
-  - ł
-  - ͥ
-  - ꝑ
-  - ¶
-  - ̾
-  - L
-  - M
-  - I
+  - A
+  - ̃
+  - S
   - C
-  - G
+  - Q
+  - D
+  - M
+  - T
   - P
-  - '-'
+  - R
+  - L
+  - x
+  - ̾
+  - B
+  - N
+  - U
+  - I
+  - ¶
+  - G
+  - F
+  - ͥ
+  - H
+  - ꝑ
+  - ⁊
   - ẜ
-  - ͦ
+  - ħ
+  - X
+  - Ꝑ
   - ꝓ
   - O
-  - S
-  - ͬ
-  - D
-  - ꝯ
-  - ħ
-  - A
-  - N
-  - ͤ
-  - U
-  - T
-  - ⟦
-  - ⟧
-  - Q
-  - H
-  - ꝰ
-  - '3'
-  - '4'
-  - ͧ
-  - B
-  - ᷤ
-  - '9'
-  - ':'
-  - ᵒ
-  - ʳ
-  - ꝟ
-  - '6'
-  - '7'
-  - '8'
-  - Y
-  - '1'
-  - '5'
-  - Z
-  - X
-  - F
-  - ƀ
-  - '0'
+  - ˢ
+  - ᵃ
+  - ͭ
   mode: NFD
 citation-file-link: https://github.com/HTRogene/occitan/blob/main/CITATION.CFF
 description: >-
@@ -139,11 +113,11 @@ time:
 title: HTRogène Medieval Occitan Manuscripts
 url: https://github.com/HTRogene/occitan
 volume:
-- count: 85478
+- count: 12738
   metric: characters
-- count: 46
+- count: 14
   metric: files
-- count: 2129
+- count: 563
   metric: lines
-- count: 119
+- count: 32
   metric: regions
