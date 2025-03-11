@@ -13,20 +13,16 @@
 ## Introduction
 
 HTRogène is an exploratory project funded by Biblissima+, aiming to develop generic models for automatic transcription of medieval and early modern manuscripts.  
-This repository focuses on the Medieval Italian corpus, providing ground-truth data for Handwritten Text Recognition (HTR) and layout segmentation.  
-The dataset is designed to support the creation of robust and reliable HTR models for Italian manuscripts.
+This repository focuses on the Medieval Occitan corpus, providing ground-truth data for Handwritten Text Recognition (HTR) and layout segmentation.  
+The dataset is designed to support the creation of robust and reliable HTR models for Occitan manuscripts.
 
-| Shelfmark            | Links                                             | Type   |   Century | Color Pages   |   Main Zones |   Lines |   Characters | Genre       |
-|----------------------|---------------------------------------------------|--------|-----------|---------------|--------------|---------|--------------|-------------|
-| Paris, BnF, esp. 33  | [**B**](https://data.biblissima.fr/entity/Q44326) | prose  |        14 | ✗             |           22 |     489 |        14303 | Treatises   |
-| Paris, BnF, esp. 43  | [**B**](https://data.biblissima.fr/entity/Q44382) | verse  |        14 | ✗             |            8 |     284 |        18885 | Treatises   |
-| Paris, BnF, esp. 286 | [**B**](https://data.biblissima.fr/entity/Q44294) | prose  |        15 | ✗             |            8 |     178 |         7462 | Treatises   |
-| Paris, BnF, esp. 305 | [**B**](https://data.biblissima.fr/entity/Q44303) | mixed  |        15 | ✗             |           12 |     300 |         9648 | Poetry      |
-| Paris, BnF, esp. 458 | [**B**](https://data.biblissima.fr/entity/Q44390) | prose  |        15 | ✗             |            8 |     331 |        22759 | Treatises   |
-| Paris, BnF, esp. 161 | [**B**](https://data.biblissima.fr/entity/Q44219) | prose  |        16 | ✗             |           19 |     470 |        19399 | Espistolary |
-| Paris, BnF, esp. 325 | [**B**](https://data.biblissima.fr/entity/Q44318) | prose  |        16 | ✗             |            9 |     281 |        15844 | Espistolary |
-| Paris, BnF, esp. 37  | [**B**](https://data.biblissima.fr/entity/Q44350) | verse  |        16 | ✗             |           15 |     547 |        12421 | Poetry      |
+| Shelfmark                               | Links                                              | Type   |   Century | Color Pages   |   Main Zones |   Lines |   Characters | Genre      |
+|-----------------------------------------|----------------------------------------------------|--------|-----------|---------------|--------------|---------|--------------|------------|
+| London, British Library, Harley MS 3041 | [**B**](https://data.biblissima.fr/entity/Q272358) | prose  |        14 | ✗             |            1 |      38 |         1634 | Narratives |
+| London, British Library, Harley MS 7403 | [**B**](https://data.biblissima.fr/entity/Q272405) | verse  |        14 | ✗             |           10 |     175 |         3690 | Poetry     |
+| Paris, BnF, fr. 13059                   | [**B**](https://data.biblissima.fr/entity/Q46358)  | verse  |        14 | ✗             |           12 |     350 |         7414 | Narratives |
 
+This dataset is part of [CATMuS Medieval](https://huggingface.co/datasets/CATMuS/medieval). More on CATMuS [here](https://catmus-guidelines.github.io/).
 
 ## Dataset Overview
 
@@ -77,7 +73,7 @@ You are free to share and adapt the material, provided appropriate credit is giv
 
 If you use this dataset in your research, please cite it as follows:
 
-> Hermand, F., Brootcorne, M., Vlachou-Efstathiou, M., Boschetti, F., Fischer, F., Chagué, A., & Clérice, T. HTRogène, Spanish corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation [Data set]. https://github.com/HTRogene/spain
+> Wiedner, M., & Couffignal, G., & Chagué, A., & Clérice, T. HTRogène, Occitan corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation [Data set]. https://github.com/HTRogene/occitan
 
 
 ## Acknowledgments
