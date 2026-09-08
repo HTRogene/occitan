@@ -1,4 +1,4 @@
-# HTRogène - Spain
+# HTRogène - Occitan
 
 <table border="0" width="100%" style="width: 100%; border:0;">
   <tr>
