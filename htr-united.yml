@@ -23,62 +23,109 @@ authors:
 automatically-aligned: false
 characters:
   members:
-  - e
   - a
+  - e
   - s
-  - n
-  - r
-  - i
   - o
+  - r
+  - n
+  - i
+  - l
   - t
   - u
-  - l
   - d
-  - m
-  - .
-  - p
   - c
-  - g
-  - z
-  - y
-  - f
-  - q
-  - b
+  - m
+  - p
+  - .
   - h
-  - E
-  - A
+  - q
+  - g
+  - f
   - ̃
-  - S
-  - C
-  - Q
-  - D
-  - M
-  - T
-  - P
-  - R
-  - L
-  - x
-  - ̾
-  - B
-  - N
-  - U
-  - I
-  - ¶
-  - G
-  - F
-  - ͥ
-  - H
+  - z
+  - b
+  - y
+  - E
   - ꝑ
+  - Q
+  - A
+  - x
+  - S
+  - L
+  - D
+  - C
+  - '&'
+  - ¶
+  - M
+  - ̾
+  - N
+  - I
+  - P
+  - T
+  - ͥ
+  - ͣ
   - ⁊
-  - ẜ
-  - ħ
-  - X
-  - Ꝑ
-  - ꝓ
-  - O
+  - R
   - ˢ
+  - U
+  - B
+  - ꝰ
+  - ⁱ
+  - ⟦
+  - ⟧
+  - ꝓ
+  - ꝯ
+  - G
+  - O
+  - F
+  - '-'
+  - ':'
+  - '1'
+  - '2'
+  - H
+  - k
   - ᵃ
+  - ẜ
+  - ͬ
+  - ħ
+  - '4'
+  - '3'
+  - ͤ
+  - ᷤ
+  - ͦ
+  - '8'
+  - ‸
+  - ʳ
+  - '9'
+  - '6'
+  - ᵗ
+  - '0'
+  - '7'
+  - '5'
+  - ˡ
+  - ᵉ
+  - 
+  - W
+  - ͨ
+  - ᵘ
+  - ᶜ
   - ͭ
+  - X
+  - ʸ
+  - 𐞥
+  - ł
+  - ⁿ
+  - Ꝑ
+  - ⁹
+  - ²
+  - Ꝙ
+  - ᶻ
+  - K
+  - ᵍ
+  - ᷠ
+  - ꝙ
+  - ʰ
   mode: NFD
 citation-file-link: https://github.com/HTRogene/occitan/blob/main/CITATION.CFF
 description: >-
@@ -113,11 +160,11 @@ time:
 title: HTRogène Medieval Occitan Manuscripts
 url: https://github.com/HTRogene/occitan
 volume:
-- count: 12738
+- count: 114229
   metric: characters
-- count: 14
+- count: 101
   metric: files
-- count: 563
+- count: 4425
   metric: lines
-- count: 32
+- count: 320
   metric: regions
